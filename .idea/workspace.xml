@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce6c9bb1-a4fd-42a5-a2ee-01bbe644e065" name="Default Changelist" comment="" />
+    <list default="true" id="ce6c9bb1-a4fd-42a5-a2ee-01bbe644e065" name="Default Changelist" comment="HW 3 UPD">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -14,12 +19,19 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="2583" y="614" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606756590217">
-      <screen x="2560" y="0" width="1138" height="1920" />
-    </state>
-    <state x="2583" y="614" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1986.1152/2560.0.1138.1920@2560.0.1138.1920" timestamp="1606756590217" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW 3 UPD" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW 3 UPD" />
   </component>
 </project>
