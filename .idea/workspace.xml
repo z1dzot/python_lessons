@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce6c9bb1-a4fd-42a5-a2ee-01bbe644e065" name="Default Changelist" comment="HW 2 UPD SEASONS" />
+    <list default="true" id="ce6c9bb1-a4fd-42a5-a2ee-01bbe644e065" name="Default Changelist" comment="HW 2 UPD 6 TASK" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607059186020</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HW 2 UPD 6 TASK">
+      <created>1607059301929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607059301929</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +77,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW 3 UPD" />
     <MESSAGE value="HW 2 UPD SEASONS" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW 2 UPD SEASONS" />
+    <MESSAGE value="HW 2 UPD 6 TASK" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW 2 UPD 6 TASK" />
   </component>
 </project>
